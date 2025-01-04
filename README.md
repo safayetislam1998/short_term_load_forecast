@@ -26,7 +26,7 @@ The architecture incorporates extensive feature engineering with multi-lag stati
 1. Clone the repository and install the required packages:
     ```bash
     git clone https://github.com/safayetislam1998/short_term_load_forecast.git
-    cd load-forecasting
+    cd short_term_load_forecast
     pip install -r requirements.txt
     ```
 2. Run the main script:
